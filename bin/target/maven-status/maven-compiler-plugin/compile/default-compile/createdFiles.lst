@@ -1,0 +1,5 @@
+core/Chrome.class
+core/Firefox.class
+core/HtmlUnit.class
+core/Safari.class
+core/Edge.class
